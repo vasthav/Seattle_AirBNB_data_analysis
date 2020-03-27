@@ -1,6 +1,6 @@
 # Seattle AirBnB Analysis
 
-This is a project done under the Udacity Data Science Nano Degree.
+This is a project done under the [Udacity Data Science Nano Degree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
 
 Table of Contents
 1. [Installation](#installation)
