@@ -28,15 +28,20 @@ eg. `pip install pandas`
 # Project Motivation <a name="motivation"></a>
 This is a project done under the Udacity Data Science Nano Degree.
 
-The Seattle AirBnB homes data used at the link: [Seattle AirBNB Data](https://www.kaggle.com/airbnb/seattle/data)
+The Seattle AirBnB homes data set used for this analysis can be found at the link: [Seattle AirBNB Data](https://www.kaggle.com/airbnb/seattle/data)
 
 For this project I was curious to find the price trends and best neighbourhood to stay based on reviews and cost.
+
+Questions tried to answer:
+1. Are there any tend in pricing of house listings?
+2. Can you describe which part of Seattle neighborhood has highest review score rating using listing descriptions?
+3. Which are the top 5 costliest and cheapest Seattle neighboorhood?
 
 ## File Descriptions <a name="files"></a>
 
 The analysis is available in the Jupyter note book: Seattle AirBnB Pricing Analysis (Udacity DSNN).ipynb
 
-###### A note on DataSet used
+##### A note on DataSet used
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA.
 The Data is available inside seattle directory
 1. seattle/calendar.csv - including full descriptions and average review score
