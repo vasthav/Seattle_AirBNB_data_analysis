@@ -59,4 +59,4 @@ The main findings of the code can be found at the post available [here]().
 
 ## Licensing and Acknowledgements<a name="licensing"></a>
 
-Must give credit to AirBnB and Udacity for the data. This repository is given under the MIT license. A copy of the license can be found at [here.]()
+Must give credit to AirBnB and Udacity for the data. This repository is given under the MIT license. A copy of the license can be found at [here.](https://github.com/vasthav/Seattle_AirBNB_data_analysis/blob/master/LICENSE)
