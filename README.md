@@ -55,8 +55,8 @@ Seatle Shapefile: https://data-seattlecitygis.opendata.arcgis.com/datasets/seatt
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://vasthav.com/posts/seattle-airbnb-2016-data-analysis/).
 
 ## Licensing and Acknowledgements<a name="licensing"></a>
-
+This dataset is part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/get-the-data.html).
 Must give credit to AirBnB and Udacity for the data. This repository is given under the MIT license. A copy of the license can be found at [here.](https://github.com/vasthav/Seattle_AirBNB_data_analysis/blob/master/LICENSE)
